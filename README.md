@@ -1,6 +1,6 @@
-### Hi there, I'm Vasil. 👋
+### Hi there, I'm Vasil.
 
-## I'm a Father, Police Officer, and Developer!
+## I'm a Police Officer, and Developer!
 
 - 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate with other people
@@ -9,8 +9,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="VasilVasilev | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-[<img align="left" alt="VasilVasilev | Linkedin" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="VasilVasilev | Facebook" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Facebook_icon.svg" />][facebook]
+[<img align="left" alt="VasilVasilev | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />][instagram]
+[<img align="left" alt="VasilVasilev | Linkedin" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" />][linkedin]
+
 
 
 <br />
