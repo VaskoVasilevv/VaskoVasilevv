@@ -1,6 +1,6 @@
 ### Hi there.
 
-### I'm a Vasil currently second year student at SoftUni and aspiring software developer.
+### I'm a Vasil currently a second year student at SoftUni and aspiring software developer.
 
 - 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate with other people
