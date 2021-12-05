@@ -1,10 +1,11 @@
 ### Hi there.
 
 ### I'm Vasil, currently a second year student at SoftUni and aspiring software developer.
+### Thi is my web project - https://guarded-ridge-39495.herokuapp.com
 
 - 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate with other people
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects
 
 
 ### Connect with me:
@@ -24,6 +25,7 @@
 <img align="left" alt="MySQL" width="26px" src="https://wikitech-static.wikimedia.org/w/images/wikitech/8/8e/Mysql_logo.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
+<img align="left" alt="Spring" width="26px" src="https://pbs.twimg.com/profile_images/1235868806079057921/fTL08u_H_400x400.png"/>
 
 
 
