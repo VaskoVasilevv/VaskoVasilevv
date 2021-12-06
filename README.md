@@ -1,7 +1,7 @@
 ### Hi there.
 
 ### I'm Vasil, currently a second year student at SoftUni and aspiring software developer.
-### Thi is my web project - https://guarded-ridge-39495.herokuapp.com
+### This is my web project - https://guarded-ridge-39495.herokuapp.com
 
 - 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate with other people
@@ -14,8 +14,6 @@
 [<img align="left" alt="VasilVasilev | Instagram" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" />][instagram]
 [<img align="left" alt="VasilVasilev | Linkedin" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" />][linkedin]
 
-
-
 <br />
 
 ### Languages and Tools:
@@ -26,8 +24,6 @@
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Spring" width="26px" src="https://pbs.twimg.com/profile_images/1235868806079057921/fTL08u_H_400x400.png"/>
-
-
 
 
 [instagram]: https://www.instagram.com/vaskovasilev/
