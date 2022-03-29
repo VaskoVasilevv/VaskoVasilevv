@@ -1,6 +1,6 @@
 ### Hi there.
 
-### I'm Vasil, currently a second year student at SoftUni and aspiring software developer!
+### I'm Vasil, second year student at SoftUni and aspiring software developer!
 ### This is my web project - https://guarded-ridge-39495.herokuapp.com
 
 - 🌱 I’m currently learning everything 
