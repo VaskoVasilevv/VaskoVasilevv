@@ -1,4 +1,4 @@
-### Hi there.
+### Hi there!
 
 ### I'm Vasil, second year student at SoftUni and aspiring junior software developer!
 ### This is my web project - https://guarded-ridge-39495.herokuapp.com
