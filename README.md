@@ -3,7 +3,7 @@
 ### I'm Vasil, second year student at SoftUni and aspiring junior software developer!
 ### This is my web project - https://guarded-ridge-39495.herokuapp.com
 
-- 🌱 I’m currently learning everything 
+- 🌱 I’m currently learning everything. 
 - 👯 I’m looking to collaborate with other people
 - 🥅 2022 Goals: Contribute more to Open Source projects
 
